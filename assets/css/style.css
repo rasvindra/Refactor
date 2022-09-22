@@ -141,6 +141,10 @@ header nav ul li {
     font-size: 36px;
 } */
 
+.search-engine-optimization img, .online-reputation-management img, .social-media-marketing img {
+    float: left;
+    margin-right: 25px;
+}
 
 /* Benefits Styling */
 .benefits {
